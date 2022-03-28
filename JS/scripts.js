@@ -29,7 +29,7 @@ const objs = [
 console.log(objs)
 
 
-//JSON teste
+//JSON 
 //CONVERTER OBJETO PARA JSON 
 const jsonData = JSON.stringify(objs)
 
